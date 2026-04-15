@@ -18,6 +18,7 @@ The proposed framework integrates transfer-path physical modeling, path-level si
 ├── requirements.txt
 ├── data
 ├── checkpoints
+├── physical_modeling.m
 ├── PGCA.py
 ├── inference_pgca.py
 └── interpretability_card.py
